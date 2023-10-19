@@ -1,0 +1,8 @@
+SPRING BATCH
+
+Desenvolvimento de Jobs com Spring Batch:
+
+O que é?
+
+R: O Spring Batch é um framework que permite implementar rotinas de processamentos de dados ou jobs que são utilizadas por
+diversas empresas no dia a dia.
